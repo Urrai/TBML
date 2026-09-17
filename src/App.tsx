@@ -3481,7 +3481,7 @@ function DocumentProcessingPage() {
                   onClick={() => setStep(7)}
                   className="flex items-center gap-1.5 rounded-md bg-red-600 px-4 py-2 text-sm font-medium text-white hover:bg-red-700"
                 >
-                  View 4 Generated Alerts <ArrowRight size={14} />
+                  View 7 Generated Alerts <ArrowRight size={14} />
                 </button>
               </div>
             </>
